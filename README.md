@@ -86,7 +86,7 @@
 
     <div class="box">
 
-        <h1>ئایا شووم پێ ئەکەیت؟ ❤️</h1>
+        <h1>شایە شووم پێ ئەکەیت؟ ❤️</h1>
 
         <div class="buttons">
 
@@ -101,8 +101,8 @@
         </div>
 
         <div class="message" id="message">
-            ئەی وااااا ❤️🥹<br>
-            زۆر خۆشحاڵم!
+            نا تخوااااا ❤️🥹<br>
+            
         </div>
 
     </div>
